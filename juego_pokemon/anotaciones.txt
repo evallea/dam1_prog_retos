@@ -1,0 +1,134 @@
+BULBASAUR:
+***********
+
+  ((|))
+{_o } )
+  uu u 
+
+((|))
+( { o_}
+ u uu 
+
+ ----------------------
+|                      |
+| ((|))        (_o)  $ |
+| ( { o_}  VS  `(`))/  |
+|  u uu	         u u   | 
+|                      |
+ ----------------------
+
+GOLPE CABEZA (NORMAL):
+Daño: 6
+Precisión: 100%
+Prob. crítica: 5%
+Prob. retroceso: 30%
+
+HOJA AFILADA (PLANTA):
+Daño: 6
+Precisión: 100%
+Prob. crítica: 20%
+
+BOFETÓN LODO (TIERRA):
+Daño: 4
+Precisión: 100%
+Prob. crítica: 5%
+
+SQUIRTLE:
+***********
+
+ ----------------------
+|                      |
+|   ( o_)        ((|)) |
+| @(#|\)\  VS  {_o } ) |
+|   u u          uu u  |
+|                      | 
+ ----------------------
+
+(_o )
+/(/|#)@ 
+  u u
+
+  ( o_)
+@(#|\)\
+  u u
+
+GOLPE CABEZA (NORMAL):
+Daño: 6
+Precisión: 100%
+Prob. crítica: 5%
+Prob. retroceso: 30%
+
+HIDROBOMBA (AGUA):
+Daño: 10
+Precisión: 80%
+Prob. crítica: 5%
+
+PUÑO HIELO (HIELO):
+Daño: 4
+Precisión: 100%
+Prob. crítica: 5%  
+
+CHARMANDER:
+***********
+
+ ----------------------
+|                      |
+| $  (o_)      (_o )   |
+|  \((´)´  VS  /(/|#)@ |
+|   u u          u u   |
+|                      |
+ ----------------------
+
+ (_o)  $
+ `(`))/
+   u u
+ 
+$  (o_)
+ \((´)´
+  u u
+
+CUCHILLADA (NORMAL):
+Daño: 6
+Precisión: 100%
+Prob. crítica: 40%
+
+LLAMARADA (FUEGO):
+Daño: 8
+Precisión: 85%
+Prob. crítica: 5%
+
+PUÑO TRUENO (ELÉCTRICO):
+Daño: 4
+Precisión: 100%
+Prob. crítica: 5%
+
+ ----------------------
+|      BULBASAUR       |
+| 	 ((|))         |
+| 	 ( { o_}       |
+| 	  u uu	       |
+ ----------------------
+
+ ----------------------
+|       SQUIRTLE       |
+| 	  ( o_)        |
+|       @(#|\)\        |
+|         u u          |
+ ----------------------
+
+ ----------------------
+|      CHARMANDER      |
+|       $  (o_)        |
+|        \((´)´        |
+|         u u          |
+ ----------------------
+ ____ 
+ |__|  
+/ PS \
+\____/
+ _________
+|_)_______)
+|| |_| |_||
+||________|
+| |        |
+|_|________|
