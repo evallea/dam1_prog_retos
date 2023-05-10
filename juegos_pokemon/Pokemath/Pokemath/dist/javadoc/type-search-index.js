@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"paquete1.pokemath","l":"ConexionMySQL"},{"p":"paquete1.pokemath","l":"Inicio"},{"p":"paquete1.pokemath","l":"Puntuaciones"},{"p":"paquete1.pokemath","l":"VentanaJuego"}];updateSearchResults();
